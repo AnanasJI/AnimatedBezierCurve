@@ -1,0 +1,9 @@
+README.md
+setup.py
+animate_bezier/__init__.py
+animate_bezier/animate.py
+animate_bezier.egg-info/PKG-INFO
+animate_bezier.egg-info/SOURCES.txt
+animate_bezier.egg-info/dependency_links.txt
+animate_bezier.egg-info/requires.txt
+animate_bezier.egg-info/top_level.txt
