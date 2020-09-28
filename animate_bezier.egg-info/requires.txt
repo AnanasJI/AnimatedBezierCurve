@@ -1,6 +1,0 @@
-numpy
-pandas
-seaborn
-altair
-typing
-altair_saver
